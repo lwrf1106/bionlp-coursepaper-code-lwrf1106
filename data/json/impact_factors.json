@@ -1,0 +1,34 @@
+{
+    "Age": {
+        "description": "Older individuals are more susceptible to developing life-threatening COVID-19 and cerebrovascular disease, such as stroke. A mild but inverse correlation with age was seen with CNS inflammatory diseases, such as encephalitis, as well as taste and/or smell disorders. Increased age was also associated with comorbid cardiovascular risk factors.",
+        "titles": [
+            "Age-Associated Neurological Complications of COVID-19: A Systematic Review and Meta-Analysis.",
+            "Neurological Sequelae of COVID-19.",
+            "Neurological manifestations of COVID-19: A brief review."
+        ]
+    },
+    "Gender": {
+        "description": "No specific gender impact factors for neurological sequelae of COVID-19 infection were mentioned in the abstracts.",
+        "titles": []
+    },
+    "Pre-existing neurological conditions": {
+        "description": "Patients with pre-existing neurological conditions may be at elevated risk for COVID-19-associated neurological symptoms.",
+        "titles": [
+            "COVID-19 Pandemic and Neurological Disease: A Critical Review of the Existing Literature.",
+            "Neurological Aspects of SARS-CoV-2 Infection: Mechanisms and Manifestations."
+        ]
+    },
+    "Severity of COVID-19 infection": {
+        "description": "Neurological symptoms are more common in patients with severe infection according to their respiratory status. Individuals with severe SARS-CoV-2 infections are likely to have long-term neurological consequences.",
+        "titles": [
+            "Neurological complications of coronavirus infection; a comparative review and lessons learned during the COVID-19 pandemic.",
+            "Long-Term Effects of SARS-CoV-2 in the Brain: Clinical Consequences and Molecular Mechanisms."
+        ]
+    },
+    "Pregnancy": {
+        "description": "COVID-19 infection during pregnancy has been found associated with an increased risk of obstetric complications that can lead to neurological acute and long-term manifestations in neonates.",
+        "titles": [
+            "Are we sure that the neurological impact of COVID 19 in childhood has not been underestimated?"
+        ]
+    }
+}
